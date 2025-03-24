@@ -1,0 +1,11 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+.plantation {
+  background-image: url(../image/title-bg-01.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: contrast(1.5);
+}
